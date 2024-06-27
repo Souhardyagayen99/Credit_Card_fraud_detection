@@ -1,9 +1,3 @@
-flask
+Flask
 pickle
-gunicorn
-pandas
 numpy
-matplotlib
-seaborn
-sklearn
-imblearn
