@@ -1,9 +1,2 @@
 Flask
 numpy
-gunicorn
-pandas
-numpy
-matplotlib
-seaborn
-sklearn
-imblearn
