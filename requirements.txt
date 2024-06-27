@@ -1,2 +1,7 @@
 numpy
 flask
+matplotlib
+seaborn
+sklearn
+imblearn
+pandas
