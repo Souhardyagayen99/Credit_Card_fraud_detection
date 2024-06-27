@@ -2,6 +2,6 @@ numpy
 flask
 matplotlib
 seaborn
-sklearn
+scikit-learn
 imblearn
 pandas
