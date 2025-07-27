@@ -12,13 +12,13 @@ The dataset was collected and analysed during a research collaboration of Worldl
 
 # Models
 Applied various classification techniques like 
-Logistic Regression 
-LightGBM
-K Nearest Neighbors (KNN )
-Classification Trees
-Random Forest 
-SVM
-XGBoost Classifier
+- Logistic Regression 
+- LightGBM
+- K Nearest Neighbors (KNN )
+- Classification Trees
+- Random Forest 
+- SVM
+- XGBoost Classifier
 
 # Follow these steps --->
 ## For Run use Python 3.9.0 (download)
