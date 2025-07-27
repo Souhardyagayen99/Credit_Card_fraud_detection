@@ -27,6 +27,10 @@ Applied various classification techniques like
 - pip install -r requirements.txt (install required library)
 - python app.py (run file)
 
+ **Use Python 3.9.0**  
+   Make sure you have Python 3.9.0 installed on your system.  
+   👉 [Download Python 3.9.0](https://www.python.org/downloads/release/python-390/)
+
 ```
 python -m venv phishenv
 .\phishenv\Scripts\activate
