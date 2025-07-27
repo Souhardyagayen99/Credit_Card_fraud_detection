@@ -27,3 +27,11 @@ Applied various classification techniques like
 - pip install -r requirements.txt (install required library)
 - python app.py (run file)
 
+```
+python -m venv phishenv
+.\phishenv\Scripts\activate
+pip install -r requirements.txt
+python app.py
+```
+
+
