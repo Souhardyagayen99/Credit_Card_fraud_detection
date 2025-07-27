@@ -20,3 +20,10 @@ Random Forest
 SVM
 XGBoost Classifier
 
+# Follow these steps --->
+## For Run use Python 3.9.0 (download)
+## python -m venv phishenv (create virtual environment)
+## .\phishenv\Scripts\activate (activate venv)
+## pip install -r requirements.txt (install required library)
+## python app.py (run file)
+
